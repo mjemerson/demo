@@ -1,10 +1,10 @@
 {
   "todos": [
-    { "userId": 1, "id": 1, "title": "Todo 1", "completed": false },
-    { "userId": 1, "id": 2, "title": "Todo 2", "completed": true },
-    { "userId": 1, "id": 3, "title": "Todo 3", "completed": false }
+    { "userId": 1, "id": 1, "title": "Buy groceries", "completed": false },
+    { "userId": 1, "id": 2, "title": "Empty the bins", "completed": true },
+    { "userId": 1, "id": 3, "title": "Record Eastenders", "completed": false }
   ],
   "profile": {
-    "name": "typicode"
+    "name": "mjemerson"
   }
 }
